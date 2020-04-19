@@ -10,6 +10,8 @@ sections:
     is one to three sentences, but can be changed as you prefer.
   image: images/5.jpg
   actions:
+  - label: Manual
+    url: ''
   - label: Get Started
     url: docs/index.html
 - type: featuresblock
