@@ -9,10 +9,10 @@ sections:
   content: Do you need some help?
   image: images/5.jpg
   actions:
+  - label: Getting Started
+    url: docs/index.html
   - label: Manual
     url: ''
-  - label: Get Started
-    url: docs/index.html
 - type: featuresblock
   template: featuresblock
   section_id: features
