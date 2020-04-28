@@ -11,7 +11,7 @@ sections:
   actions:
   - label: Getting Started
     url: docs/index.html
-  - label: Manual
+  - label: The Manual
     url: ''
 - type: featuresblock
   template: featuresblock
