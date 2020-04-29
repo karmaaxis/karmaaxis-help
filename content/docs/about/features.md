@@ -5,6 +5,8 @@ layout: docs
 excerpt: ''
 
 ---
+<hr>
+
 ### Creator:
 
 It is the user who can initiate a New Karma and assign to someone. For every KARMA list of eligible Creators is defined and only they can create that KARMA.
