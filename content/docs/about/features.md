@@ -7,27 +7,27 @@ excerpt: ''
 ---
 ### Creator:
 
-<hr>
-
 It is the user who can initiate a New Karma and assign to someone. For every KARMA list of eligible Creators is defined and only they can create that KARMA.
+
+<hr>
 
 ### Karta \[Doer\]:
 
-<hr>
-
 For every KARMA there is a primary KARTA or Doer who is responsible for that KARMA. For every KARMA type, the list of eligible KARTA is defined. Only users from this list can be made KARTA for the particular KARMA type.
 
-### Co Actors:
-
 <hr>
 
-For every KARMA there can be CoActors who shall be supporting or engaging with those KARTA for the particular KARMA. No rights are required to invite anyone as a CoActor.
+### Co-Actors:
+
+For every KARMA there can be Co-Actors who shall be supporting or engaging with those KARTA for the particular KARMA. No rights are required to invite anyone as a Co-Actor.
+
+<hr>
 
 ### Coordinator:
 
-<hr>
-
 This is a special right given to certain individuals. The Rights are specific to a Particular Karma type. So someone may be a coordinator for say ‘LEADS’ karma. In such case the ‘LEADS’ Karma Coordinator \[Local\] can see all the ‘LEADS’ Karmas for users reporting to his/her boss. A ‘LEADS’ Coordinator \[Global\] can see LEADS of all the users in the organization. 
+
+<hr>
 
 ### Pool Members:
 
