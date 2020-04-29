@@ -6,8 +6,7 @@ sections:
   title: KarmaAxis Help Center
   section_id: hero
   component: hero_block.html
-  content: This section can contain a subtitle or tagline. The recommended length
-    is one to three sentences, but can be changed as you prefer.
+  content: Do you need some help?
   image: images/5.jpg
   actions:
   - label: Getting Started
