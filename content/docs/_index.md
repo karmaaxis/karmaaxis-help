@@ -13,8 +13,6 @@ KarmaAxis is a new perspective, a paradigm shift in the way we track and manage 
 
 ***
 
-KarmaAxis is a new perspective, a paradigm shift in the way we track and manage business. A simple and uncluttered way to track organizational activities to keep business on track.
-
 **#1** KarmaAsxis enables nimble mapping and tracking of diverse business functions like Sales, Service, Projects, Admin, Quality, HRM, Production, Procurement, Maintenance etc.
 
 **#2** Each KARMA captures the relevant progress information & appears in the HUB of the stakeholders, ensuring a seamless and collaborative way of tracking them all.
