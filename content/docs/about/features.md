@@ -1,109 +1,42 @@
 ---
-title: Features
+title: Karma Actors, Roles & Rights
 weight: 2
 layout: docs
+excerpt: ''
+
 ---
+### Creator:
 
-<div class="note">
-  <strong>Note:</strong> This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
-</div>
+<hr>
 
-### Syntax highlighting
+It is the user who can initiate a New Karma and assign to someone. For every KARMA list of eligible Creators is defined and only they can create that KARMA.
 
-You can add a language identifier to enable syntax highlighting in your code block. For example, to highlight the **JavaScript** code, specify `javascript` next to the tick marks before the fenced code block:
+### Karta \[Doer\]:
 
-<pre>
-```javascript
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
-</pre>
+<hr>
 
-The rendered output looks like this:
+For every KARMA there is a primary KARTA or Doer who is responsible for that KARMA. For every KARMA type, the list of eligible KARTA is defined. Only users from this list can be made KARTA for the particular KARMA type.
 
-```javascript
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
+### Co Actors:
 
-Or to highlight the **CSS** code, specify `css` next to the tick marks before the fenced code block:
+<hr>
 
-<pre>
-```css
-body {
-  background: #fff;
-  color: #666;
-  line-height: 1.66667; }
+For every KARMA there can be CoActors who shall be supporting or engaging with those KARTA for the particular KARMA. No rights are required to invite anyone as a CoActor.
 
-a {
-  color: #d4a259;
-  text-decoration: underline;
-  -webkit-transition: background .3s ease, color .3s ease;
-  transition: background .3s ease, color .3s ease; }
+### Coordinator:
 
-a:hover {
-  color: #1d1d1d;
-  text-decoration: none; }
-```
-</pre>
+<hr>
 
-The rendered output looks like this:
+This is a special right given to certain individuals. The Rights are specific to a Particular Karma type. So someone may be a coordinator for say ‘LEADS’ karma. In such case the ‘LEADS’ Karma Coordinator \[Local\] can see all the ‘LEADS’ Karmas for users reporting to his/her boss. A ‘LEADS’ Coordinator \[Global\] can see LEADS of all the users in the organization. 
 
-```css
-body {
-  background: #fff;
-  color: #666;
-  line-height: 1.66667; }
+### Pool Members:
 
-a {
-  color: #d4a259;
-  text-decoration: underline;
-  -webkit-transition: background .3s ease, color .3s ease;
-  transition: background .3s ease, color .3s ease; }
+<hr>
 
-a:hover {
-  color: #1d1d1d;
-  text-decoration: none; }
-```
+KARMAs can be marked for assigning to POOLs. This can be done by the Administrator. All potential KARTA of such a KARMA are the POOL members. When these KARMAs are assigned to POOLs, they show up in the POOL of all respective POOL members (users). Once someone picks up the KARMA it automatically moves out of the Pool.
 
-## Callouts
+### Reports to:
 
-There are two types of callouts availabale in this theme, **important** and **note**.
+<hr>
 
-<div class="important">
-  <strong>Important:</strong> 
-  This is an "Important" callout block of text. 
-  This block indicates a warning or caution.
-  Use it for an important message. 
-</div>
-
-<div class="note">
-  <strong>Note:</strong> 
-  This is an "Note" callout block of text. 
-  This block signifies a general note or tip.
-</div>
-
-## Tables
-
-You can build tables with markdown to help you organize information. To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column like in the example below.
-
-| Name | Required | Type | Description |
-| ---- | --- | --- | --- |
-| type | Required | `enum` | The type of the model. Must be one of - `page`, `config`, `data`, `object` |
-| label | Required | `string` | The label of the model |
-| description | | `string` | Description of the model. Used by some CMS. |
-| fields | | `list` of `objects` | List of Field Models |
-
-## Start using Libris theme
-
-We’ve packed this theme with powerful features to help you have awesome documentation for your current or next project.
-
-**Why not start using this theme today?**
-
-<a href="https://www.stackbit.com/" class="button">Join Stackbit</a>
+Each user reports to a senior. The default rights are laid out such that everyone can see reports of all the users reporting to them. This is defined by the Administrator while setting up users.
