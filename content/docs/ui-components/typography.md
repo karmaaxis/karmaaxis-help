@@ -95,6 +95,8 @@ Each Karma can be Tagged by using a #. For example, Karma related to a project o
 
 Once you move inside expense, material, time, updates or files, you also see a top bar as below offering quick navigation between Karma Story. From Left to Right the icons stands for – Story Home, Expenses, Material, Time Log, Updates and attachments.
 
+![](/images/Navigation Bar.png)
+
 #### Expenses
 
 Simply select the Expense Head, Fill in the Amount, Write any notes you want, attach the receipts \[photo, screen shot etc.\] and Add.
@@ -105,15 +107,23 @@ All stake holders can record the expenses incurred in context of this KARMA.
 
 A user can delete his Expense for up to 1 Day and there after deletion is not allowed.
 
-Material
+![](/images/Expense.png)
+
+#### Material
 
 Simply select the Item, Quantity & Rate and Add. With each item it is possible to record additional notes and also an image. This can be detailed specification or anything important.
 
 Item can be selected from the list or it can be typed as a New Item \[That is categorised as Unclassified\].
 
+![](/images/Material.png)
+
 Once all items are entered, you can update and that becomes the complete bill of material.
 
+![](/images/Material 2.png)
+
 Once a List is updated at the bottom we see “Revise” and “Show Revisions”.
+
+![](/images/Material 1.png)
 
 With Revise, any stake holder of this KARMA can revise the Bill of Material.
 
