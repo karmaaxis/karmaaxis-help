@@ -23,6 +23,8 @@ Shows Value of Expenses, Material & Time entered till now. Allows defining estim
 
 First the estimates can be added by clicking on Add Estimates. If estimates are given it shows below the band. Click on the pencil icon on the right side of the estimates to revise the estimates. The revision history of the estimate is tracked.
 
+![](/images/Revision of Estimates.png)
+
 #### Header
 
 KarmaNo, KarmaType, <Date: Due/Creation >, <Priority>, <Status> 
