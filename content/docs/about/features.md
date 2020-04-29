@@ -31,9 +31,9 @@ This is a special right given to certain individuals. The Rights are specific to
 
 ### Pool Members:
 
-<hr>
-
 KARMAs can be marked for assigning to POOLs. This can be done by the Administrator. All potential KARTA of such a KARMA are the POOL members. When these KARMAs are assigned to POOLs, they show up in the POOL of all respective POOL members (users). Once someone picks up the KARMA it automatically moves out of the Pool.
+
+<hr>
 
 ### Reports to:
 
