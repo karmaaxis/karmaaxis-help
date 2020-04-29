@@ -37,6 +37,6 @@ KARMAs can be marked for assigning to POOLs. This can be done by the Administrat
 
 ### Reports to:
 
-<hr>
-
 Each user reports to a senior. The default rights are laid out such that everyone can see reports of all the users reporting to them. This is defined by the Administrator while setting up users.
+
+<hr>
