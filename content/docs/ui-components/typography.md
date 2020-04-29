@@ -73,13 +73,17 @@ All the 3 Actions requires reason to be mentioned. They are taken as exceptions 
 
 Any Karma from any stage can be set to Repeat at defined frequency. It is explained in Depth in Advanced Karma Assignment.
 
-Karta / Doer & CoActor
+#### Karta / Doer & Co-Actor
 
 Below that you see the Karta & Co-Actors.
 
 Karta may choose to assign the Karma to some other Karta.
 
+![](/images/Assign.png)
+
 Karta and Assignor can chose to invite Co-Actors for the Karma.
+
+![](/images/Co-Actor.png)
 
 Karma Tags
 
