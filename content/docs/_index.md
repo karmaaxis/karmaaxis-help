@@ -1,12 +1,14 @@
 ---
-title: Welcome to Libris
+title: Welcome to KarmaAxis
+layout: docs
+weight: 
+excerpt: ''
 menu:
   main:
     name: Docs
     weight: 2
-layout: docs
----
 
+---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
 
 ***
