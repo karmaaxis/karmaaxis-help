@@ -85,15 +85,17 @@ Karta and Assignor can chose to invite Co-Actors for the Karma.
 
 ![](/images/Co-Actor.png)
 
-Karma Tags
+#### Karma Tags
 
 Each Karma can be Tagged by using a #. For example, Karma related to a project or a campaign can be tagged to help a combined tracking.
 
-Quick Navigation Bar
+![](/images/Tag.png)
+
+#### Quick Navigation Bar
 
 Once you move inside expense, material, time, updates or files, you also see a top bar as below offering quick navigation between Karma Story. From Left to Right the icons stands for – Story Home, Expenses, Material, Time Log, Updates and attachments.
 
-Expenses
+#### Expenses
 
 Simply select the Expense Head, Fill in the Amount, Write any notes you want, attach the receipts \[photo, screen shot etc.\] and Add.
 
