@@ -9,14 +9,24 @@ menu:
     weight: 2
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
+KarmaAxis is a new perspective, a paradigm shift in the way we track and manage business. A simple and uncluttered way to track organizational activities to keep business on track.
 
 ***
 
-Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
+KarmaAxis is a new perspective, a paradigm shift in the way we track and manage business. A simple and uncluttered way to track organizational activities to keep business on track.
 
-Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus. 
+**#1** KarmaAsxis enables nimble mapping and tracking of diverse business functions like Sales, Service, Projects, Admin, Quality, HRM, Production, Procurement, Maintenance etc.
 
-[Morbi ac vulputate enim](https://stackbit.com)
+**#2** Each KARMA captures the relevant progress information & appears in the HUB of the stakeholders, ensuring a seamless and collaborative way of tracking them all.
 
-Maecenas metus justo, imperdiet vel velit et, iaculis consectetur risus. Etiam venenatis odio quis vulputate interdum. Nulla facilisi. Pellentesque nibh nibh, elementum sed mauris vel, commodo pretium magna.
+**#3** The KARMA Story builds up with Engagement, Communication, Documents, Photos/Video, Expenses, Materials, Due Dates, Priorities, Check lists etc. Simple recording of Action in each Karma eliminates any further reporting workload.
+
+**#4** KarmaAxis gives thoughtful insights around Karma, Users, Teams, Contacts, Expense, Material, Asset and much more.
+
+**#5** Planned Karma facilitates excellent planning & tracking of future workloads, projections, contracts, commitments etc. Converts Plan into Action item at the right time.
+
+**#6** KarmaAxis Huddle architecture creates fluid information rights, communication, and collaboration framework.
+
+**#7** KarmaAxis benefits every level of team in the organization as tracking changes from transactional to holistic nature. This reduces stress while improving decision quality and also impacting positive behaviour changes.
+
+In a nutshell, KarmaAxis implements the optimal framework to track a business and keep it on track.
