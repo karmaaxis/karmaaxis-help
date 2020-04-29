@@ -137,6 +137,8 @@ All the revisions logs the user name & date time stamp with the revision.
 
 Show revision cleanly shows how the story unfolded.
 
+![](/images/Material 3.png)
+
 Time Log & Scheduling
 
 Time log helps in tracking utilisation of time by individuals involved in a karma. Karma Axis converts this time to a monetary value (Based on Rate/Hr defined for all users) to represent contribution by the individuals.
